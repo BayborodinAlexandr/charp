@@ -1,0 +1,15 @@
+C:\Users\А\test\2024\C#\lesson_one\bin\Debug\net8.0\lesson_one.exe
+C:\Users\А\test\2024\C#\lesson_one\bin\Debug\net8.0\lesson_one.deps.json
+C:\Users\А\test\2024\C#\lesson_one\bin\Debug\net8.0\lesson_one.runtimeconfig.json
+C:\Users\А\test\2024\C#\lesson_one\bin\Debug\net8.0\lesson_one.dll
+C:\Users\А\test\2024\C#\lesson_one\bin\Debug\net8.0\lesson_one.pdb
+C:\Users\А\test\2024\C#\lesson_one\obj\Debug\net8.0\lesson_one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\А\test\2024\C#\lesson_one\obj\Debug\net8.0\lesson_one.AssemblyInfoInputs.cache
+C:\Users\А\test\2024\C#\lesson_one\obj\Debug\net8.0\lesson_one.AssemblyInfo.cs
+C:\Users\А\test\2024\C#\lesson_one\obj\Debug\net8.0\lesson_one.csproj.CoreCompileInputs.cache
+C:\Users\А\test\2024\C#\lesson_one\obj\Debug\net8.0\lesson_one.sourcelink.json
+C:\Users\А\test\2024\C#\lesson_one\obj\Debug\net8.0\lesson_one.dll
+C:\Users\А\test\2024\C#\lesson_one\obj\Debug\net8.0\refint\lesson_one.dll
+C:\Users\А\test\2024\C#\lesson_one\obj\Debug\net8.0\lesson_one.pdb
+C:\Users\А\test\2024\C#\lesson_one\obj\Debug\net8.0\lesson_one.genruntimeconfig.cache
+C:\Users\А\test\2024\C#\lesson_one\obj\Debug\net8.0\ref\lesson_one.dll
